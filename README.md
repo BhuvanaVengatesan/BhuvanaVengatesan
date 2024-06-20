@@ -10,4 +10,4 @@ Welcome to my portfolio, where I showcase my project
 - Library: Pandas, Seaborn, Matplotlib
 - Database: MySQL
 ## 👋🏻 Connect with Me
-- Linkedin
+- [Linkedin](https://www.linkedin.com/in/bhuvaneswari-vengatesan-241014276/)
