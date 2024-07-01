@@ -9,5 +9,6 @@ Welcome to my portfolio, where I showcase my [project](https://github.com/Bhuvan
 - Language: SQL, Python
 - Library: Pandas, Seaborn, Matplotlib
 - Database: MySQL
+- Visualization tools: Power BI
 ## 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/bhuvaneswari-vengatesan-241014276/)
