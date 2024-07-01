@@ -2,7 +2,7 @@
 I'm bhuvaneswari, a self taught Data Analyst and SQL enthusiast from Pondicherry.
 - Technical Editor Background with 2 year of professional experience
 - I want to kickstart my career in Data Analytics
-- Loves working with Data and learning new skills. I self-taught myself SQL and Python
+- Loves working with Data and learning new skills. I self-taught myself SQL, Python and Power BI
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my [project](https://github.com/BhuvanaVengatesan/Portfolio/blob/main/README.md)
 ## 🛠️ Tools
